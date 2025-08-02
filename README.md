@@ -1,11 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is JusTone
 ===============================================================================================================================
 
-I have 6 years of experience in managing and developing FiveM and RedM servers, and I have a strong understanding of Lua, HTML, CSS, and MySQL. This enables me to efficiently develop and customize server systems. In the future, I plan to further expand my knowledge of other languages to enhance my capabilities even more.
+I have 8 years of experience in managing and developing FiveM and RedM servers, and I have a strong understanding of Lua, HTML, CSS, JS, and MySQL. This enables me to efficiently develop and customize server systems. In the future, I plan to further expand my knowledge of other languages to enhance my capabilities even more.
 
 * 🌍  I'm based in ฺBangkok, Thailand
 * ✉️  You can contact me at [bigsystem.ch@gmail.com](mailto:bigsystem.ch@gmail.com)
-* 🧠  I'm learning C#, C++
 
 <a href="https://www.x.com/BigsystemB" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/BigsystemB?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
