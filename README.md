@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is JusTone
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm JusTone
 ===============================================================================================================================
 
 I have 8 years of experience in managing and developing FiveM and RedM servers, and I have a strong understanding of Lua, HTML, CSS, JS, and MySQL. This enables me to efficiently develop and customize server systems. In the future, I plan to further expand my knowledge of other languages to enhance my capabilities even more.
